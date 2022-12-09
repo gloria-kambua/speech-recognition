@@ -34,7 +34,7 @@ Contributions, issues and feature requests are always welcome!
 
 I love meeting other developers, especially ones that give me advice on how to improve my work.
 
-Feel free to check the [issues page](https://github.com/jebitok-dev/RestaurantPage).
+Feel free to check the [issues page](https://github.com/gloria-kambua/speech-recognition).
 
 ### How to Contribute
 
@@ -42,10 +42,10 @@ To get a local copy up and running follow these simple example steps.
 
 ```
 - Fork the repository
-- git clone https://github.com/your_username/RestaurantPage
+- git clone https://github.com/your_username/speech-recognition
 - git checkout develop
 - git checkout -b branch name
-- git remote add upstream https://github.com/jebitok-dev/RestaurantPage
+- git remote add upstream https://github.com/gloria-kambua/speech-recognition
 - git pull upstream develop
 - git commit -m "commit message"
 - git push -u origin HEAD
@@ -57,5 +57,4 @@ Finally, if you've read this far, don't forget to give this repo a ⭐️. They'
 
 ## Acknowledgments
 
-- [Microverse](https://microverse.org).
-- [Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/restaurant-page) for project specifications
+- [Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses) for javascript knowledge shared
